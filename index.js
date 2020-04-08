@@ -4,29 +4,6 @@ const uc=[]
 
 var count=0
 
-
-comp=(c1,c2)=>{
-    switch(c1+c2){
-        case "rocksci":
-        case "paperrock":
-        case "scipaper":
-            console.log(user[0])
-            break;
-        case "scirock":
-        case "rockpaper":
-        case "papersci":
-            console.log(user[1])
-            break
-        case "scisci":
-        case "rockrock":
-        case "paperpaper":
-            console.log("draw")
-            break
-    }
-}
-
-
-
 const fun=()=>{
     const num=Math.floor(Math.random()*3)
     const output=game[num]
@@ -84,7 +61,7 @@ comp(c3,c4)
 
 }
 
-for(i=1;i<51;i++){
+for(i=1;i<10;i++){
      
     start()
 }
