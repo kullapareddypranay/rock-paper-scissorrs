@@ -12,10 +12,10 @@ player based on the choices made.
 
 //run the code once 
 /*
-u will get to know the error
+u will get to know the bug
 
-The only error is every time a choice is made and made to push throw an array it adds count vaue 0 to every user but the current count is displayed at the top of the userchoice i.e uc or the rules
+The only bug is every time a choice is made and made to push throw an array it adds count vaue 0 to every user but the current count is displayed at the top of the userchoice i.e uc or the rules
 
-If you stop printing out choices then u can save memmory and my code runs without bug
+If you stop printing out choice then my code runs without bug
 
 */
