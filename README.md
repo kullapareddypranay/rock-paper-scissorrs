@@ -9,3 +9,13 @@ player based on the choices made.
 4) The above should be repeated 50 times.
 5) The total results should be printed out per player to player basis.
 6) Also, print out all the choices for each round for each player
+
+//run the code once 
+/*
+u will get to know the error
+
+The only error is every time a choice is made and made to push throw an array it adds count vaue 0 to every user but the current count is displayed at the top of the userchoice i.e uc or the rules
+
+If you stop printing out choices then u can save memmory and my code runs without bug
+
+*/
