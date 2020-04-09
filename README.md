@@ -11,11 +11,7 @@ player based on the choices made.
 6) Also, print out all the choices for each round for each player
 
 //run the code once 
-/*
-u will get to know the bug
+ 
 
-The only bug is every time a choice is made and made to push throw an array it adds count vaue 0 to every user but the current count is displayed at the top of the userchoice i.e uc or the rules
-
-If you stop printing out choice then my code runs without bug
-
-*/
+It prints results after each round as an object and showa which person defeated the other
+ it also shows the choice of the user for each and every round
