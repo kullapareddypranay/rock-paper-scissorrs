@@ -15,5 +15,7 @@ player based on the choices made.
 
 It prints results after each round as an object and showa which person defeated the other
  it also shows the choice of the user for each and every round
+ 
+ :OUTPUT IS BELOW
 
 https://user-images.githubusercontent.com/53392617/78856879-8e7b5180-7a45-11ea-9a91-966815fcc198.PNG
