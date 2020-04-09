@@ -74,7 +74,7 @@ uc.splice(0,uc.length)
 
 }
 
-for(i=1;i<5;i++){
+for(i=1;i<51;i++){
      
     start()
 }
